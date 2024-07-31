@@ -1,7 +1,6 @@
-- 👋 Salut, c'est Sébastien/Console_buche
-- 🌱 Développeur front-end, React, Typescript, Three.js & cie
-- 👀 Petit public repo fourre-tout, experiments surtout
-- 📫 Twitter/Youtube @Console_buche
+Ahoy, I'm Sebastien, I love moving pixels. Especially if it includes 3d, canvases, and all the goodies.
+Working with TS. Learning Zig
+Doing fun stuff here 📫 Twitter/Youtube/Twitch @Console_buche
 
 <!---
 Console-buche/Console-buche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
